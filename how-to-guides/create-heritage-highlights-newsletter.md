@@ -6,7 +6,7 @@ Heritage Highlights is the weekly newsletter that is published by the church in 
 
 Visit their [login](https://login.mailchimp.com/) page to access the control panel.
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 {% hint style="info" %}
 Access is currently restricted to our Secretary. Submit a [request](https://docs.google.com/forms/d/e/1FAIpQLScqt1RndHEA3udGeOoMNzDoettr30-P1vTEHm3RkEbdn_1EOQ/viewform?usp=pp_url&entry.74352180=Mailchimp) if you need access.
@@ -34,7 +34,7 @@ Select "all subscribed contacts" as the audience you are emailing, ensure "Herit
 
 Click the "Design Email" and then choose "Saved Templates". Locate and click the template with the most recent modification date.
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 Update each of the content blocks based utilizing the list of sources shown in the table below. 
 
@@ -59,5 +59,5 @@ Once all of the content blocks have been modified, hit the "Save & Close" button
 
 When you are ready to send the newsletter, simply hit the "Send" button in the top right corner.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 

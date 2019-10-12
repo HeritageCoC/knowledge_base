@@ -10,9 +10,13 @@
 
 ## Step 3: Check settings for broadcast
 
-* [ ] Fill in the Sermon Title.
-* [ ] Check that the Slides input screen is showing the correct image.
+* [ ] Fill in the Sermon Title in the Stream tab.
+* [ ] Check that the Slides input screen in the upper section reflects what is displayed on the projectors.
 * [ ] Check that audio levels are present within the Program screen.
+
+{% hint style="info" %}
+Skip the 2nd task if the audtiorium camera is all that will be broadcast.
+{% endhint %}
 
 ## Step 4: Begin the stream
 
