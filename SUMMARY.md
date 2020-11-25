@@ -34,14 +34,12 @@
   * [Audio Tasks](crows-nest/sunday-checklist-for-crows-nest/audio-tasks.md)
   * [Livestream Tasks](crows-nest/sunday-checklist-for-crows-nest/livestream-tasks.md)
   * [Proclaim Tasks](crows-nest/sunday-checklist-for-crows-nest/proclaim-tasks.md)
-* [Untitled](crows-nest/untitled.md)
+* [Troubleshooting](crows-nest/troubleshooting/README.md)
+  * [Audio not working](crows-nest/troubleshooting/audio-not-working/README.md)
+    * [Television Audio](crows-nest/troubleshooting/audio-not-working/television.md)
 
 ---
 
-* [How-To Guides](how-to-guides.md)
-* [Troubleshooting](troubleshooting/README.md)
-  * [Audio not working](troubleshooting/audio-not-working/README.md)
-    * [Television Audio](troubleshooting/audio-not-working/television.md)
 * [Approved Software](approved-software/README.md)
   * [Buffer](approved-software/buffer.md)
   * [PCO Check-Ins](approved-software/check-ins.md)
@@ -85,5 +83,4 @@
     * [UniFi Cloud Key Gen2 Plus](hardware/electrical-room/unifi-cloud-key-gen2-plus.md)
     * [UniFi Security Gateway](hardware/electrical-room/unifi-security-gateway.md)
     * [UniFi Switch PoE 24](hardware/electrical-room/unifi-switch-poe-24.md)
-* [Untitled](untitled-1.md)
 

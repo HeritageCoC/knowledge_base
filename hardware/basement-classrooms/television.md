@@ -23,7 +23,7 @@ All audio is directed form the TV to the soundbar mounted below the television. 
 * [ ] Use the arrow keys on the black manufacturer remote and select the input labeled **Crestron.**
 
 {% hint style="danger" %}
-Audio from the broadcast must be enabled from the Live Stream PC located in the Crow’s Nest. [Click here to learn how.](../../troubleshooting/audio-not-working/television.md)
+Audio from the broadcast must be enabled from the Live Stream PC located in the Crow’s Nest. [Click here to learn how.](../../crows-nest/troubleshooting/audio-not-working/television.md)
 {% endhint %}
 
 ### Display Cable Box
