@@ -28,7 +28,7 @@
 
 ## Communications
 
-* [Styles Guide](communications/styles-guide.md)
+* [Style Guide](communications/style-guide.md)
 * [Social Media](communications/social-media/README.md)
   * [Account List](communications/social-media/accounts.md)
   * [Buffer Publish](communications/social-media/buffer-publish.md)
