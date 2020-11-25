@@ -1,18 +1,29 @@
 # Table of contents
 
 * [Welcome](README.md)
+
+## Administrative
+
+* [User Guides](administrative/user-guides/README.md)
+  * [Planning Center](administrative/user-guides/planning-center/README.md)
+    * [Events](administrative/user-guides/planning-center/creating-events/README.md)
+      * [How to create events for groups](administrative/user-guides/planning-center/creating-events/how-to-create-events-for-groups.md)
+      * [How to create events with registrations](administrative/user-guides/planning-center/creating-events/create-registration-events.md)
+  * [Mailchimp](administrative/user-guides/mailchimp/README.md)
+    * [Heritage Highlights newsletter](administrative/user-guides/mailchimp/create-heritage-highlights-newsletter.md)
+  * [Office 365](administrative/user-guides/office-365.md)
+  * [Proclaim](administrative/user-guides/proclaim/README.md)
+    * [Church Service Slides](administrative/user-guides/proclaim/presentations/README.md)
+      * [How to create Sunday Morning Worship slides](administrative/user-guides/proclaim/presentations/how-to-create-sunday-morning-worship-slides.md)
+      * [How to create digital announcements](administrative/user-guides/proclaim/presentations/how-to-create-digital-announcements.md)
+
+---
+
 * [How-To Guides](how-to-guides/README.md)
   * [Sunday Checklist for Crow's Nest](how-to-guides/sunday-checklist-for-crows-nest/README.md)
     * [Audio Tasks](how-to-guides/sunday-checklist-for-crows-nest/audio-tasks.md)
     * [Livestream Tasks](how-to-guides/sunday-checklist-for-crows-nest/livestream-tasks.md)
     * [Proclaim Tasks](how-to-guides/sunday-checklist-for-crows-nest/proclaim-tasks.md)
-  * [Heritage Highlights newsletter](how-to-guides/create-heritage-highlights-newsletter.md)
-  * [Events](how-to-guides/creating-events/README.md)
-    * [How to create events for groups](how-to-guides/creating-events/how-to-create-events-for-groups.md)
-    * [How to create events with registrations](how-to-guides/creating-events/create-registration-events.md)
-  * [Church Service Slides](how-to-guides/presentations/README.md)
-    * [How to create Sunday Morning Worship slides](how-to-guides/presentations/how-to-create-sunday-morning-worship-slides.md)
-    * [How to create digital announcements](how-to-guides/presentations/how-to-create-digital-announcements.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [Audio not working](troubleshooting/audio-not-working/README.md)
     * [Television Audio](troubleshooting/audio-not-working/television.md)
@@ -59,12 +70,4 @@
     * [UniFi Cloud Key Gen2 Plus](hardware/electrical-room/unifi-cloud-key-gen2-plus.md)
     * [UniFi Security Gateway](hardware/electrical-room/unifi-security-gateway.md)
     * [UniFi Switch PoE 24](hardware/electrical-room/unifi-switch-poe-24.md)
-
-## Administrative
-
-* [User Guides](administrative/user-guides/README.md)
-  * [Planning Center](administrative/user-guides/planning-center.md)
-  * [Mailchimp](administrative/user-guides/mailchimp.md)
-  * [Office 365](administrative/user-guides/office-365.md)
-  * [Proclaim](administrative/user-guides/proclaim.md)
 
