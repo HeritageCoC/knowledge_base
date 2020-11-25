@@ -17,6 +17,12 @@
       * [How to create Sunday Morning Worship slides](administrative/user-guides/proclaim/presentations/how-to-create-sunday-morning-worship-slides.md)
       * [How to create digital announcements](administrative/user-guides/proclaim/presentations/how-to-create-digital-announcements.md)
 
+## Communications
+
+* [Styles Guide](communications/styles-guide.md)
+* [Social Media](communications/social-media/README.md)
+  * [Accounts](communications/social-media/accounts.md)
+
 ---
 
 * [How-To Guides](how-to-guides/README.md)
