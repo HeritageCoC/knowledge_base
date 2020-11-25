@@ -60,3 +60,7 @@
     * [UniFi Security Gateway](hardware/electrical-room/unifi-security-gateway.md)
     * [UniFi Switch PoE 24](hardware/electrical-room/unifi-switch-poe-24.md)
 
+## Administrative
+
+* [Planning Center](administrative/planning-center.md)
+
