@@ -30,8 +30,9 @@
 
 ## Crow’s Nest
 
-* [Livestream Studio](crows-nest/livestream-studio.md)
-* [Proclaim](crows-nest/proclaim.md)
+* [User Guides](crows-nest/user-guides/README.md)
+  * [Livestream Studio](crows-nest/user-guides/livestream-studio.md)
+  * [Proclaim](crows-nest/user-guides/proclaim.md)
 * [Sunday Checklist](crows-nest/sunday-checklist-for-crows-nest/README.md)
   * [Audio Tasks](crows-nest/sunday-checklist-for-crows-nest/audio-tasks.md)
   * [Livestream Tasks](crows-nest/sunday-checklist-for-crows-nest/livestream-tasks.md)
@@ -43,7 +44,6 @@
 ---
 
 * [Approved Software](approved-software/README.md)
-  * [Buffer](approved-software/buffer.md)
   * [PCO Check-Ins](approved-software/check-ins.md)
 * [Vendor Management](vendor-management/README.md)
   * [Apple](vendor-management/apple.md)

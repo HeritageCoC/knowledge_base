@@ -1,3 +1,9 @@
+---
+description: >-
+  Plan and publish thumb-stopping content which drives meaningful engagement and
+  growth for our church online.
+---
+
 # Buffer Publish
 
 We leverage an application called [Buffer Publish](https://login.buffer.com/login) which allows us to craft the perfect post for each social network, all in one place.

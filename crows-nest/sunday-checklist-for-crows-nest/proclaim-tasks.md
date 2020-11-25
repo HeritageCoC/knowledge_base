@@ -6,7 +6,7 @@
 
 ## Step 2: Open Proclaim
 
-* [ ] Double-click the [Proclaim](../proclaim.md) icon on the Windows desktop.
+* [ ] Double-click the [Proclaim](../user-guides/proclaim.md) icon on the Windows desktop.
 
 ## Step 3: Begin the presentation
 
