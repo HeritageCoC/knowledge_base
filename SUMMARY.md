@@ -28,13 +28,17 @@
   * [Voice](communications/ways-to-communicate/voice.md)
   * [Text Message](communications/ways-to-communicate/text-message.md)
 
+## Crow’s Nest
+
+* [Sunday Checklist](crows-nest/sunday-checklist-for-crows-nest/README.md)
+  * [Audio Tasks](crows-nest/sunday-checklist-for-crows-nest/audio-tasks.md)
+  * [Livestream Tasks](crows-nest/sunday-checklist-for-crows-nest/livestream-tasks.md)
+  * [Proclaim Tasks](crows-nest/sunday-checklist-for-crows-nest/proclaim-tasks.md)
+* [Untitled](crows-nest/untitled.md)
+
 ---
 
-* [How-To Guides](how-to-guides/README.md)
-  * [Sunday Checklist for Crow's Nest](how-to-guides/sunday-checklist-for-crows-nest/README.md)
-    * [Audio Tasks](how-to-guides/sunday-checklist-for-crows-nest/audio-tasks.md)
-    * [Livestream Tasks](how-to-guides/sunday-checklist-for-crows-nest/livestream-tasks.md)
-    * [Proclaim Tasks](how-to-guides/sunday-checklist-for-crows-nest/proclaim-tasks.md)
+* [How-To Guides](how-to-guides.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [Audio not working](troubleshooting/audio-not-working/README.md)
     * [Television Audio](troubleshooting/audio-not-working/television.md)

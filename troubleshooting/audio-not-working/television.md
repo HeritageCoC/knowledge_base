@@ -11,7 +11,7 @@ To enable audio on the television in the adult classroom in the basement for the
 
 ## Step 2: Change audio setting
 
-* [ ] Make sure LiveStream Studio is [running](../../how-to-guides/sunday-checklist-for-crows-nest/livestream-tasks.md).
+* [ ] Make sure LiveStream Studio is [running](../../crows-nest/sunday-checklist-for-crows-nest/livestream-tasks.md).
 * [ ] On the Livestream PC in the Crow’s Nest, locate the sound icon in the notification area on the bottom right of the screen.
 * [ ] Click the icon to display a menu of sound outputs.
 * [ ] Choose the output for Samsung.
