@@ -41,6 +41,8 @@
   * [Audio not working](crows-nest/troubleshooting/audio-not-working/README.md)
     * [Television Audio](crows-nest/troubleshooting/audio-not-working/television.md)
 
+## Resources
+
 ---
 
 * [Approved Software](approved-software/README.md)
