@@ -6,7 +6,7 @@ Visit their [login](https://login.mailchimp.com/) page to access the control pan
 
 ![](../.gitbook/assets/image%20%2813%29.png)
 
-Currently, we use Mailchimp to create and send our weekly [Heritage Highlights](../administrative/user-guides/mailchimp/create-heritage-highlights-newsletter.md) newsletter as well send emails from within [Planning Center](planning-center.md).
+Currently, we use Mailchimp to create and send our weekly [Heritage Highlights](../administrative/user-guides/mailchimp/campaigns/create-heritage-highlights-newsletter.md) newsletter as well send emails from within [Planning Center](planning-center.md).
 
 
 
