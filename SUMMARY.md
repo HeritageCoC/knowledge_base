@@ -23,6 +23,10 @@
 * [Social Media](communications/social-media/README.md)
   * [Account List](communications/social-media/accounts.md)
   * [Buffer Publish](communications/social-media/buffer-publish.md)
+* [Ways to Communicate](communications/ways-to-communicate/README.md)
+  * [Email](communications/ways-to-communicate/email.md)
+  * [Voice](communications/ways-to-communicate/voice.md)
+  * [Text Message](communications/ways-to-communicate/text-message.md)
 
 ---
 
@@ -77,4 +81,5 @@
     * [UniFi Cloud Key Gen2 Plus](hardware/electrical-room/unifi-cloud-key-gen2-plus.md)
     * [UniFi Security Gateway](hardware/electrical-room/unifi-security-gateway.md)
     * [UniFi Switch PoE 24](hardware/electrical-room/unifi-switch-poe-24.md)
+* [Untitled](untitled-1.md)
 
