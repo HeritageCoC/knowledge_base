@@ -62,5 +62,9 @@
 
 ## Administrative
 
-* [Planning Center](administrative/planning-center.md)
+* [User Guides](administrative/user-guides/README.md)
+  * [Planning Center](administrative/user-guides/planning-center.md)
+  * [Mailchimp](administrative/user-guides/mailchimp.md)
+  * [Office 365](administrative/user-guides/office-365.md)
+  * [Proclaim](administrative/user-guides/proclaim.md)
 
