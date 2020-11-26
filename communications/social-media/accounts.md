@@ -4,7 +4,7 @@
 
 [https://www.facebook.com/HeritageCoC](https://www.facebook.com/HeritageCoC)
 
-We currently leverage an specific account from the church which manages to the Page. 
+We leverage a church based service account to manage the Facebook Page. 
 
 ## Twitter
 
