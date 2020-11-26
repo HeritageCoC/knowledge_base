@@ -39,14 +39,16 @@
 
 ## Crow’s Nest
 
-* [User Guides](crows-nest/user-guides/README.md)
-  * [Livestream Studio](crows-nest/user-guides/livestream-studio.md)
-  * [Proclaim](crows-nest/user-guides/proclaim.md)
-* [Sunday Checklist](crows-nest/sunday-checklist-for-crows-nest/README.md)
+* [Worship Service Checklist](crows-nest/sunday-checklist-for-crows-nest/README.md)
   * [Audio Tasks](crows-nest/sunday-checklist-for-crows-nest/audio-tasks.md)
   * [Livestream Tasks](crows-nest/sunday-checklist-for-crows-nest/livestream-tasks.md)
   * [Proclaim Tasks](crows-nest/sunday-checklist-for-crows-nest/proclaim-tasks.md)
+* [User Guides](crows-nest/user-guides/README.md)
+  * [Playing videos in auditorium](crows-nest/user-guides/playing-videos-in-auditorium.md)
+  * [Adding announcement slides](crows-nest/user-guides/adding-announcement-slides.md)
+  * [Setting up a Livestream](crows-nest/user-guides/setting-up-a-livestream.md)
 * [Troubleshooting](crows-nest/troubleshooting/README.md)
+  * [Frozen computer](crows-nest/troubleshooting/frozen-computer.md)
   * [Audio not working](crows-nest/troubleshooting/audio-not-working/README.md)
     * [Television Audio](crows-nest/troubleshooting/audio-not-working/television.md)
 
@@ -55,6 +57,8 @@
 ---
 
 * [Approved Software](approved-software/README.md)
+  * [Livestream Studio](approved-software/livestream-studio.md)
+  * [Proclaim](approved-software/proclaim.md)
   * [PCO Check-Ins](approved-software/check-ins.md)
 * [Vendor Management](vendor-management/README.md)
   * [Apple](vendor-management/apple.md)
