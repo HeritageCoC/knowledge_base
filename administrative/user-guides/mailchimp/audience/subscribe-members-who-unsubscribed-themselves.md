@@ -25,7 +25,7 @@ Make sure to use the exact same first name, last name, and email address as writ
 
 ## Step 4: Login to People \(Planning Center\)
 
-* [ ] Login to People and use the search function to find a specific person's profile page from Step 1
+* [ ] Login to [People](https://login.planningcenteronline.com/login/new) and use the search function to find a specific person's profile page from Step 1
 * [ ] Click the Privacy Tab \(bottom right of screen\) and make sure the member has “Receive Heritage Highlights”
 
 ## Step 5: Refresh lists in People
@@ -34,11 +34,11 @@ Make sure to use the exact same first name, last name, and email address as writ
 Perform this step once all profile pages have been updated
 {% endhint %}
 
-* [ ]  Go to Lists within People and search for the one title Heritage Highlights Recipients
-* [ ] Click on the list and then hit the refresh button 
-* [ ] Click the Settings tab visible at the top of the member list
-* [ ] Find the area the Mailchimp Sync Status.
-* [ ] If you see “Synced” in green, you can skip to Step 6
+* [ ] Go to [Lists](https://people.planningcenteronline.com/lists) within People and search for the one title [Heritage Highlights Recipients](https://people.planningcenteronline.com/lists/853426)
+* [ ] Click on the list and then hit the green **Refresh results** button 
+* [ ] Click the **Settings** tab visible at the top of the member list
+* [ ] Find the area the **Mailchimp status**
+* [ ] If you see “Synced” in green next to Mailchimp Sync Status, you can skip to Step 6
 * [ ] Press the sync button which adds the member's email and appropriate tags into the Mailchimp Audience
 
 ## Step 6: Send new campaigns
