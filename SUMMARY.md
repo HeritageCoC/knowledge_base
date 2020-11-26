@@ -27,6 +27,8 @@
     * [Church Service Slides](administrative/user-guides/proclaim/presentations/README.md)
       * [How to create Sunday Morning Worship slides](administrative/user-guides/proclaim/presentations/how-to-create-sunday-morning-worship-slides.md)
       * [How to create digital announcements](administrative/user-guides/proclaim/presentations/how-to-create-digital-announcements.md)
+* [Reporting](administrative/reporting.md)
+* [Standard Operating Policies and Procedures](administrative/standard-operating-policies-and-procedures.md)
 
 ## Communications
 
