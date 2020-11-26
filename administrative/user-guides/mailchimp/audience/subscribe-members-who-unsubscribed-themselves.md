@@ -4,12 +4,44 @@ Sometimes our members inadvertently unsubscribe themselves from our email campai
 
 The following steps should allow you to manually add back a member to our Mailchimp Audience in those instances.
 
-1. Login to [Mailchimp](../how-do-i-login.md) and go to the Audiences tab. You should see a list of members in our audience and can sort by the “Email Marketing” column to find those members who have “unsubscribed”.
-2. Go to the form at this [link](http://eepurl.com/grQ7vP).
-3. Using the list above, fill out the form with the member’s first and last name and email address as written in the Mailchimp list. Hit “subscribe” after you have checked the appropriate boxes which show interests.
-4. Login to People \(Planning Center\) and go to the specific person’s profile page
-5. Click the Privacy Tab \(bottom right of screen\) and make sure the member has “Receive Heritage Highlights”
-6. Once all members have been updated, go to the Lists within People \(Planning Center and refresh the list title Heritage Highlights Recipients. 
-7. There should be a Settings tab visible at the top of the list of Members. Click that tab and look for the box that says Mailchimp Sync Status. It should say “Synced” in green unless you had to make profile changes up in Step 5. If it is “synced”, there should be a sync button available that will make sure everything is current.
-8. Happily send email campaigns again in Mailchimp. 
+## Step 1: Login to Mailchip
+
+* [ ] Login to [Mailchimp](../how-do-i-login.md) and go to the Audiences tab
+* [ ] You should see a list of members in our audience
+* [ ] Sort by the “Email Marketing” column to find those members who have _**unsubscribed**_
+
+## Step 2: Go to the signup form
+
+Go to the form at this [link](http://eepurl.com/grQ7vP)
+
+## Step 3: Signup members
+
+* [ ] Fill out the form for each member from Step 1
+* [ ] Hit “subscribe” after you have checked the appropriate boxes which show interests.
+
+{% hint style="info" %}
+Make sure to use the exact same first name, last name, and email address as written in the Mailchimp list when filling out the form
+{% endhint %}
+
+## Step 4: Login to People \(Planning Center\)
+
+* [ ] Login to People and use the search function to find a specific person's profile page from Step 1
+* [ ] Click the Privacy Tab \(bottom right of screen\) and make sure the member has “Receive Heritage Highlights”
+
+## Step 5: Refresh lists in People
+
+{% hint style="info" %}
+Perform this step once all profile pages have been updated
+{% endhint %}
+
+* [ ]  Go to Lists within People and search for the one title Heritage Highlights Recipients
+* [ ] Click on the list and then hit the refresh button 
+* [ ] Click the Settings tab visible at the top of the member list
+* [ ] Find the area the Mailchimp Sync Status.
+* [ ] If you see “Synced” in green, you can skip to Step 6
+* [ ] Press the sync button which adds the member's email and appropriate tags into the Mailchimp Audience
+
+## Step 6: Send new campaigns
+
+Happily send email campaigns again in Mailchimp
 
