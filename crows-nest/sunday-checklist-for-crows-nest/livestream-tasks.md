@@ -15,7 +15,7 @@
 * [ ] Check that audio levels are present within the Program screen.
 
 {% hint style="info" %}
-Skip the 2nd task if the audtiorium camera is all that will be broadcast.
+Skip the 2nd task if the auditorium camera is all that will be broadcast.
 {% endhint %}
 
 ## Step 4: Begin the stream
